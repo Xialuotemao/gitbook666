@@ -1,3 +1,6 @@
-# My Awesome Book
+skt vs ssg who will win the game
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+If you guess right we'll give you price
+
+
+
